@@ -1,0 +1,8 @@
+1,Barfi,Romance,Hindi,23/4/12,Ranbeer Kapoor;Priyanka Chopra,4.5,25
+2,Avengers,Action,English,4/5/12,Robert D. Jr.;Scarlet Johansson,4.5,900
+3,Three Idiots,Comedy,Hindi,6/4/12,Amir Khan;Kareena Kapoor,4.6,90
+Four,Student of the Year,Comedy,Hindi,3/10/12,Alia Bhatt;Sidharth Malhotra,2.3,14
+5,Talaash,Thriller,Hindi,12/12/10,Amir Khan;Kareena Kapoor,3.5,23
+6,Madagaskar,Comedy,english,4/5/12,Chris Rock;David Shwimmer,4.6,532
+7,Sparsh,Marathi,5/6/12,Java
+8,Mi Shivaji,Drama,Marathi,6/6/12,Priya Bapat;Makarand Anaspure,4.5,3.6
